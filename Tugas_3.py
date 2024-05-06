@@ -1,4 +1,3 @@
-print ("Hello")
 def pokok(jam_kerja):
 
     if jam_kerja <= 7:
